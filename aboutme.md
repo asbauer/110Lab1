@@ -23,6 +23,6 @@ Some things I'm in the middle of working towards:
 One of my favorite quotes: 
 > If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success. -James Cameron 
 
-Is the following code valid? If so, whats the value of i?
+Is the following code valid?
 
 `i = i++ `
